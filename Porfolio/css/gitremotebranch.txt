@@ -1,0 +1,10 @@
+
+git config --global init.defaultBranch main
+git init
+git remote add origin https://github.com/Vanlauffy/PERSONAL-PORTFOLIO
+git checkout main
+git fetch
+
+optional:
+git fetch origin
+git pull --all
