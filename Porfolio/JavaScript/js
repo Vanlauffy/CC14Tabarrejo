@@ -5,8 +5,8 @@ console.log("Hello, World!");
 console.log("Welcome to JavaScript Programming!");
 
 // 2. Variable Practice
-const name = "Juan";
-const age = 20;
+const name = "Van";
+const age = 23;
 const favoriteLanguage = "JavaScript";
 
 console.log(`My name is ${name}.`);
@@ -87,7 +87,7 @@ function greetUser(name) {
 console.log(`Hello ${name}! Welcome to JavaScript.`);
 }
 
-greetUser("Maria");
+greetUser("Baby");
 
 // 11. Area of Rectangle
 function calculateArea(length, width) {
